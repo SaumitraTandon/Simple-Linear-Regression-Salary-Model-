@@ -1,6 +1,6 @@
 # Simple Linear Regression
 
-This project demonstrates the implementation of Simple Linear Regression using the scikit-learn library in Python. The goal is to predict the salary of employees based on their years of experience.
+This project demonstrates the implementation of Simple Linear Regression using the scikit-learn library in Python & R. The goal is to predict the salary of employees based on their years of experience.
 
 ## Dataset
 
